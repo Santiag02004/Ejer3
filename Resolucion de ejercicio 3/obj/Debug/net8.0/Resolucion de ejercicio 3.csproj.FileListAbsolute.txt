@@ -1,0 +1,14 @@
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\bin\Debug\net8.0\Resolucion de ejercicio 3.exe
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\bin\Debug\net8.0\Resolucion de ejercicio 3.deps.json
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\bin\Debug\net8.0\Resolucion de ejercicio 3.runtimeconfig.json
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\bin\Debug\net8.0\Resolucion de ejercicio 3.dll
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\bin\Debug\net8.0\Resolucion de ejercicio 3.pdb
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\Resolucion de ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\Resolucion de ejercicio 3.AssemblyInfoInputs.cache
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\Resolucion de ejercicio 3.AssemblyInfo.cs
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\Resolucion de ejercicio 3.csproj.CoreCompileInputs.cache
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\Resolucion de ejercicio 3.dll
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\refint\Resolucion de ejercicio 3.dll
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\Resolucion de ejercicio 3.pdb
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\Resolucion de ejercicio 3.genruntimeconfig.cache
+D:\auxiliatura\Resolucion de ejercicio 3\Resolucion de ejercicio 3\obj\Debug\net8.0\ref\Resolucion de ejercicio 3.dll
